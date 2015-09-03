@@ -16,7 +16,10 @@ stackoverflow.com/questions/247135/using-xpath-to-search-text-containing
 
 > Python API frameworks:
 flask-restful.readthedocs.org/en/latest/ | flask-restful.readthedocs.org/en/latest/quickstart.html
+flask.pocoo.org | flask.pocoo.org/docs/0.10/quickstart/
+
 falconframework.org/ | falcon.readthedocs.org/en/latest/
+django-rest-framework.org/
 cloud.google.com/appengine/docs/python/
 bitbucket.org/jespern/django-piston/wiki/Home
 django-tastypie.readthedocs.org/en/latest/
